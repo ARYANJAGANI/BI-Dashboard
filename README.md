@@ -1,4 +1,5 @@
 # 📊 HR Analytics Dashboard – Employee Attrition Analysis
+![HR Analytics Dashboard Preview](hr-dashboard.png)
 
 ## 📌 Project Overview
 This project is an **HR Analytics Dashboard** developed using **Power BI** to analyze employee attrition and workforce demographics. The dashboard provides actionable insights into attrition trends across departments, age groups, gender, education fields, and job roles, helping HR teams make data-driven retention decisions.
